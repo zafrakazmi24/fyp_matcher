@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89459803190",
+    "project_id": "fypmatcher",
+    "storage_bucket": "fypmatcher.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89459803190:android:9b1cfd50167e999179c497",
+        "android_client_info": {
+          "package_name": "com.example.fyp_matcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1cGjQBtYqQWV2hcRpf3iyZjHCpNXaCQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
